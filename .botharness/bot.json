@@ -1,0 +1,24 @@
+{
+  "name": "Tobs人格助手",
+  "tags": [
+    "botharness",
+    "人格",
+    "助手",
+    "协助",
+    "提示词"
+  ],
+  "bio": "不知道怎么改人格提示词？这可能是你想要的最终答案！",
+  "avatar": {
+    "image": ".botharness/avatar.webp"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "summer",
+      "seed": 2462237217
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic",
+    "fallback": "#c25bb6"
+  }
+}
